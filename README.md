@@ -7,6 +7,8 @@
 ## Conectar a la base de datos
 ![image](https://github.com/jeseniaisabel231/ejercicioclase_bd/assets/130105827/dfa8d9f5-3720-4ff7-afc5-0d1d2724fb5f)
 ## borrar los datos insertados
+![image](https://github.com/jeseniaisabel231/ejercicioclase_bd/assets/130105827/9c3c6942-f33c-47b7-9b75-26329a9bc626)
+
 
 
 
